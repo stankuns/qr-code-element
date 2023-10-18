@@ -99,7 +99,8 @@ It's one of many ways to centre the element on the page:
 Always remember that document should have one main landmark and Links must be distinguishable without relying on color.
 
 ```html
-<main role="main"></main>
+<main></main>
+<div role="contentinfo"></div>
 ```
 
 ### Continued development
