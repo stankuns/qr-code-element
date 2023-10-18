@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). A simple component made with HTML and CSS.
+This is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). A simple element made with HTML and CSS.
 
 ## Table of contents
 
@@ -24,9 +24,9 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [github](https://github.com/stankuns/qr-code-element)
-- Live View: [live view](https://stankuns.github.io/qr-code-element/)
-  
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
 ## My process
 
 ### Built with
@@ -95,6 +95,13 @@ It's one of many ways to centre the element on the page:
 }
 ```
 
+
+Always remember that document should have one main landmark and Links must be distinguishable without relying on color.
+
+```html
+<main role="main"></main>
+```
+
 ### Continued development
 
 Soon, I hope to explore more CSS custom properties and also other ways to centre an element on the page.
@@ -117,4 +124,3 @@ Soon, I hope to explore more CSS custom properties and also other ways to centre
 ## Acknowledgments
 
 Thanks to everyone who teaches and makes their code available on the internet, especially Kevin Powell who is a great and kind master of CSS and coding.
-
