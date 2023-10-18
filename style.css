@@ -16,7 +16,7 @@
     --clr-light: hsl(212, 45%, 89%);
     --clr-medium: hsl(220, 15%, 55%);
     --clr-dark: hsl(218, 44%, 22%);
-    --clr-link: hsl(228, 45%, 44%);
+    --clr-link: hsl(227, 70%, 5%);
     
     --a-link: none;
 
@@ -63,7 +63,7 @@ img {
 
 .attribution {
     font-size: var(--fs-attribution);
-    
+    color: var(--clr-medium)
     
 }
 
